@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="100" viewBox="0 0 45 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect id="Retângulo_Arredondado_1" data-name="Retângulo Arredondado 1" class="cls-1" x="12" y="8" width="21" height="21" rx="10" ry="10"/>
+  <rect id="Retângulo_Arredondado_1_copiar" data-name="Retângulo Arredondado 1 copiar" class="cls-1" x="12" y="38" width="21" height="21" rx="10" ry="10"/>
+  <rect id="Retângulo_Arredondado_1_copiar_2" data-name="Retângulo Arredondado 1 copiar 2" class="cls-1" x="12" y="68" width="21" height="21" rx="10" ry="10"/>
+</svg>
